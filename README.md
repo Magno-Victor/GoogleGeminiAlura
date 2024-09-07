@@ -1,4 +1,4 @@
-## Magic: The Gathering - Busca de Cartas 
+## Magic: The Gathering - Busca de Cartas  - Imersão Dev Alura com Google Gemini
 
 **‍♂️ Uma aplicação para os amantes de Magic: The Gathering!**
 
